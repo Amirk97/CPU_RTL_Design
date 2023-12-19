@@ -1,0 +1,25 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 0  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__59  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 0  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__56  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 0  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__54  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 2  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__54  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 2  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__56  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 2  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__59  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 3  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__54  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 3  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__56  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Time: 0 ps  Iteration: 3  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__59  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 105 ns  Iteration: 4  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__54  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+Time: 105 ns  Iteration: 4  Process: /control_datapath_tb/UUT/processing_unit/int_ALU/line__56  File: E:/York/Digital_Design/Documents/Github/datapath_standalone/datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd
+Warning: NUMERIC_STD."<=": metavalue 

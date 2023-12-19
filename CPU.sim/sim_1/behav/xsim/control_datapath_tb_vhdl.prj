@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../datapath_standalone.srcs/sources_1/imports/new/DigEng.vhd" \
+"../../../../datapath_standalone.srcs/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd" \
+"../../../../datapath_standalone.srcs/sources_1/imports/VivadoProjects/register_bank_standalone/register_bank_standalone.srcs/sources_1/imports/new/REG_NBIT.vhd" \
+"../../../../datapath_standalone.srcs/sources_1/new/control_logic.vhd" \
+"../../../../datapath_standalone.srcs/sources_1/imports/VivadoProjects/register_bank_standalone/register_bank_standalone.srcs/sources_1/imports/new/reg_bank.vhd" \
+"../../../../datapath_standalone.srcs/sources_1/imports/new/data_path.vhd" \
+"../../../../datapath_standalone.srcs/sources_1/new/Control_datapath.vhd" \
+"../../../../datapath_standalone.srcs/sim_1/new/control_datapath_tb.vhd" \
+
+# Do not sort compile order
+nosort

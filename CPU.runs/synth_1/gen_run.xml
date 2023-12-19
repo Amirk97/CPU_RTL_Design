@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1640171734">
+  <File Type="PA-TCL" Name="Control_datapath.tcl"/>
+  <File Type="REPORTS-TCL" Name="Control_datapath_reports.tcl"/>
+  <File Type="RDS-RDS" Name="Control_datapath.vds"/>
+  <File Type="RDS-UTIL" Name="Control_datapath_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="Control_datapath_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="Control_datapath.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/new/DigEng.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../VivadoProjects/Uni folders/ALU/ALU.srcs/sources_1/new/DigEng.vhd"/>
+        <Attr Name="ImportTime" Val="1636368108"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../VivadoProjects/ALU_standalone/ALU_standalone.srcs/sources_1/imports/ALU.srcs/sources_1/new/ALU.vhd"/>
+        <Attr Name="ImportTime" Val="1639134552"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/VivadoProjects/register_bank_standalone/register_bank_standalone.srcs/sources_1/imports/new/REG_NBIT.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../VivadoProjects/register_bank_standalone/register_bank_standalone.srcs/sources_1/imports/new/REG_NBIT.vhd"/>
+        <Attr Name="ImportTime" Val="1638879116"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/control_logic.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../datapath_standalone/datapath_standalone.srcs/sources_1/new/control_logic.vhd"/>
+        <Attr Name="ImportTime" Val="1640171049"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/VivadoProjects/register_bank_standalone/register_bank_standalone.srcs/sources_1/imports/new/reg_bank.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../VivadoProjects/register_bank_standalone/register_bank_standalone.srcs/sources_1/imports/new/reg_bank.vhd"/>
+        <Attr Name="ImportTime" Val="1639216505"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/data_path.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../VivadoProjects/Uni folders/ALU/ALU.srcs/sources_1/new/data_path.vhd"/>
+        <Attr Name="ImportTime" Val="1638199943"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Control_datapath.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../datapath_standalone/datapath_standalone.srcs/sources_1/new/Control_datapath.vhd"/>
+        <Attr Name="ImportTime" Val="1639856934"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MMU.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../datapath_standalone/datapath_standalone.srcs/sources_1/new/MMU.vhd"/>
+        <Attr Name="ImportTime" Val="1640169035"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/DDMSc-Lab3b/RAM.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../VivadoProjects/Lab_3B/Lab_3B.srcs/sources_1/imports/DDMSc-Lab3b/RAM.vhd"/>
+        <Attr Name="ImportTime" Val="1478859096"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Processor.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../datapath_standalone/datapath_standalone.srcs/sources_1/new/Processor.vhd"/>
+        <Attr Name="ImportTime" Val="1640094177"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Control_datapath"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

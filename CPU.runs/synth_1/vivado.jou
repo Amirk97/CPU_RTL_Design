@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Dec 22 11:15:37 2021
+# Process ID: 12348
+# Current directory: E:/York/Digital_Design/VivadoProjects/datapath_standalone/datapath_standalone.runs/synth_1
+# Command line: vivado.exe -log Control_datapath.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Control_datapath.tcl
+# Log file: E:/York/Digital_Design/VivadoProjects/datapath_standalone/datapath_standalone.runs/synth_1/Control_datapath.vds
+# Journal file: E:/York/Digital_Design/VivadoProjects/datapath_standalone/datapath_standalone.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Control_datapath.tcl -notrace
